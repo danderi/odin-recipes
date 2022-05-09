@@ -1,9 +1,20 @@
 h2,
-h1 {
-    background-color: rgb(255, 238, 0);
+.header {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 44px;
+}
+
+.arepa.header {
+    background-color: rgb(255, 238, 0);
+}
+
+.french-toast.header{
+    background-color: rgb(53, 139, 209);
+}
+
+.burrito.header{
+    background-color: rgb(74, 161, 48);
 }
 
 h2 {
