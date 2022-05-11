@@ -20,16 +20,18 @@ h2 {
     font-size: 36px;
 }
 
-p {
-    text-align: center;
-}
-
 .main.image {
     height: auto;
     width: 500px;
+    background-color: transparent;
+}
+
+p,
+ol,
+ul  {
+    color: aliceblue;
+    background-color: black;
     text-align: center;
 }
 
-ul {
-    text-align: center;
-}
+
